@@ -18,7 +18,8 @@ Now, the question you may think about is how we can use our collected data to ve
 ## More broader cases
 Once we know some key properties of our sample data, we may use some statistical methods to generalize this sample observation to a broader group of people (i.e. population), and eventually draw a conclusion to our hypothesis statement. The conclusion will be either rejecting our null hypothesis or not rejecting it. The conclusion is based on one important measurement called p-value. You can think of the p-value as how likely the null hypothesis is true, i.e. playing video games is not associated with exam scores. The smaller the p-value, the more unlikely the null hypothesis will happen. We commonly use a threshold of 0.05 to compare p-value with. If p-value is less than 0.05, we have enough evidence to reject the null hypothesis, and say that playing video games is somewhat related to the exam score. I did not go deeper into the calculation but it will not stop you from understanding the main concept of a classical statistical hypothesis testing. 
 
-How does my hypothesis testing perform?
+## How does my hypothesis testing perform?
+![](img/img2.png)
 It is important to know how great your hypothesis testing is. Let’s say that our test suggests that we reject our null hypothesis, which indicates no relationship between video games and test score. As a result, you decide to play video games a few hours a day. Later, you may end up with not enough time for studying for the exam and thus fail it. You will be scolded by your mom. This is what we called a “Type I Error” or “False Positive”. Alternatively, let’s say our test suggests that we do not reject our null hypothesis, which indicates that video games may have some bad impact on your test score. You will likely not play video games at all. But what if our suggestion is wrong? You could have played a lot of games and still get a good score on your exams. 
 
 
