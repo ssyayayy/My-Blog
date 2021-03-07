@@ -20,6 +20,7 @@ Once we know some key properties of our sample data, we may use some statistical
 
 ## How does my hypothesis testing perform?
 ![](img/img2.png)
+
 It is important to know how great your hypothesis testing is. Let’s say that our test suggests that we reject our null hypothesis, which indicates no relationship between video games and test score. As a result, you decide to play video games a few hours a day. Later, you may end up with not enough time for studying for the exam and thus fail it. You will be scolded by your mom. This is what we called a “Type I Error” or “False Positive”. Alternatively, let’s say our test suggests that we do not reject our null hypothesis, which indicates that video games may have some bad impact on your test score. You will likely not play video games at all. But what if our suggestion is wrong? You could have played a lot of games and still get a good score on your exams. 
 
 
